@@ -1,11 +1,14 @@
 [Desktop Entry]
 Name=Linux Box
-GenericName=linux子系统
-Comment=linux子系统
+GenericName=Linux Sub System
+GenericName[zh_CN]=Linux子系统
+Comment=Linux Sub System
+Comment[zh_CN]=Linux子系统
 Categories=LinuxBox
 Exec=/usr/bin/linuxbox
-Icon=distributor-logo-crux
-Keywords=distrobox;
+Icon=preferences-system-linux
+Keywords=distrobox;distro
+Keywords[zh_CN]=子系统;Linux子系统
 NoDisplay=false
 Terminal=false
 Type=Application
